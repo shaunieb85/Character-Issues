@@ -7,12 +7,11 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>Founded in 2022, Character Issues is a dynasty league started up by three friends with a keen interest in the NFL and showcasing their incredible knowledge.</p>
+  <p>Once the idea to set up a dynasty league was born we each set off scurrying for league members from various sources and a rag tag group of UK NFL fans was finalised.</p>
+  <p>Following the startup draft auction an eclectic collection of teams with differing (or dithering, in some cases) styles and ambitions were created and ever since then through trade offers good and bad the league has really started to hit it's stride.</p>
+  <p>In year 2, a weekly review is issued to provide a comprehensive rundown of the week's matchups, dodgy dealings and top available players.</p>
+  <p>Yes, there is a monetary prize pot, the ultimate prize is bragging rights.</p>
 `;
 
 /*   STEP 3   */
